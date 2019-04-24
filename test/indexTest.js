@@ -1,5 +1,3 @@
-const expect = chai.expect;
-
 describe('global functions', function() {
   let returnsThisAndArgs;
   let bob;
